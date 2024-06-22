@@ -20,3 +20,4 @@
 ##### Uniqueness Check: Evaluates the number of unique characters in the password.
 ##### Strength Evaluation: Assigns a strength level ranging from "Very Weak" to "Excellent" based on the criteria met.
 ##### Feedback: Provides specific suggestions to improve the password strength if any criteria are not met.
+![Screenshot 2024-06-22 233259](https://github.com/Sadanasri4/CODTECH-Task1/assets/172870310/5bd2c12a-73cd-4184-9699-79068769047b)
