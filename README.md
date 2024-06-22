@@ -1,6 +1,6 @@
 # CODTECH-Task1
- Name: SUNKANAPALLY SADANA\t
- Company:CODTECH IT SOLUTIONS
+### Name: SUNKANAPALLY SADANA
+### Company:CODTECH IT SOLUTIONS
 # ID:CT08DS1366
 # Domain:Cyber "Cyber Security & Ethical Hacking”
 # Duration:June to June 2024
