@@ -5,10 +5,10 @@
 ### Domain:Cyber Security & Ethical Hacking
 ### Duration: June to June 2024
 ### Mentor:SRAVANI GOUNI
-## Overview of the Project
-### Password Strength Checker
-##### Objective
-###### This project is a Python-based Password Strength Checker designed to help users assess the strength of their passwords. The tool evaluates various aspects of a password such as its length, complexity, and uniqueness, and provides feedback to help users create stronger passwords.
+# Overview of the Project
+## Password Strength Checker
+## Objective
+##### This project is a Python-based Password Strength Checker designed to help users assess the strength of their passwords. The tool evaluates various aspects of a password such as its length, complexity, and uniqueness, and provides feedback to help users create stronger passwords.
 
 ## Features
 ##### Length Check: Ensures the password is of sufficient length (minimum 12 characters).
